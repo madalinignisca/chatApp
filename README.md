@@ -4,8 +4,8 @@ This small git repo follows the ChatApp from [Socket.io Get Started Tutorial](ht
 By following the tags, you can see my progress solving the Homework given in the basic tutorial
 
 ## Homework
-- [ ] Broadcast a message to connected users when someone connects or disconnects
-- [ ] Add support for nicknames
+- [x] Broadcast a message to connected users when someone connects or disconnects
+- [x] Add support for nicknames
 - [ ] Don’t send the same message to the user that sent it himself. Instead, append the message directly as soon as he presses enter.
 - [ ] Add “\{user} is typing” functionality
 - [ ] Show who’s online
